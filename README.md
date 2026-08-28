@@ -1,5 +1,5 @@
 # FDM Printer Profiles
-Printer Profile for VHS FDM 3D Printers
+Printer Profile for VHS FDM 3D Printers. 
 _Last updated: August 28, 2026_
 
 ## Available Profiles:
