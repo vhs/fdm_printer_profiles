@@ -5,4 +5,4 @@ Printer Profile for VHS FDM 3D Printers.
 ## Available Profiles:
 
 ### Sovol SV08: 
-Orca Slicer -VHS Sovol SV08 0.4 nozzle Aug 2026.orca_printer
+Orca Slicer -[VHS Sovol SV08 0.4 nozzle Aug 2026.orca_printer]([url](https://github.com/vhs/fdm_printer_profiles/raw/refs/heads/main/Sovol-SV08/VHS%20Sovol%20SV08%200.4%20nozzle%20Aug%202026.orca_printer))
